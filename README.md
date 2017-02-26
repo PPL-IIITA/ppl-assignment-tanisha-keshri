@@ -15,5 +15,6 @@ g++ main.cpp
 
 works in terminal 
 operating system - Linux Mint 17.3 Cinnamon 64-bit
+Class diagramm using - LibreOffice Draw 
 
 
