@@ -11,12 +11,10 @@ Download the clone And open the project using Netbeans 8.1
 Run the below file file
 ppl_q3/src/ppl_q3/ppl_q3.java
 ```
-
-### Question 3(ppl_q3)
+### For Documantation
 ```
-Download the clone And open the project using Netbeans 8.1
-Run the below file file
-ppl_q3/src/ppl_q3/ppl_q3.java
+$ cd ppl_q3/Documantation
+$ firefox index.html
 ```
 
 ### Question 4(ppl_q4)
@@ -24,6 +22,11 @@ ppl_q3/src/ppl_q3/ppl_q3.java
 Download the clone And open the project using Netbeans 8.1
 Run the below file file
 ppl_q4/src/ppl_q4/ppl_q4.java
+```
+### For Documantation
+```
+$ cd ppl_q4/Documantation
+$ firefox index.html
 ```
 
 ### Question 5(ppl_q5)
@@ -33,11 +36,23 @@ Run the below file file
 ppl_q5/src/ppl_q5/ppl_q5.java
 ```
 
+### For Documantation
+```
+$ cd ppl_q5/Documantation
+$ firefox index.html
+```
+
 ### Question 6(ppl_q6)
 ```
 Download the clone And open the project using Netbeans 8.1
 Run the below file file
 ppl_q6/src/ppl_q6/ppl_q6.java
+```
+
+### For Documantation
+```
+$ cd ppl_q6/Documentation
+$ firefox index.html
 ```
 
 ### Question 7(ppl_q7)
@@ -48,7 +63,7 @@ ppl_q7/src/ppl_q7/ppl_q7.java
 ```
 ### For Documentation
 ```
-$ cd qx/Documentation
+$ cd ppl_q7/Documentation
 $ firefox index.html
 ```
 
