@@ -66,7 +66,10 @@ ppl_q7/src/ppl_q7/ppl_q7.java
 $ cd ppl_q7/Documentation
 $ firefox index.html
 ```
-
+## Class diagram
+```
+Class diagram for every question is under the folder of that question naming classdiagram.pdf
+```
 
 
 ## TOOLS
